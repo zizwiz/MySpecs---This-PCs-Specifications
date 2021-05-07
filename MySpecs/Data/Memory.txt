@@ -1,0 +1,16 @@
+CacheMemory
+MemoryArray
+MemoryArrayLocation
+MemoryDevice
+MemoryDeviceArray
+MemoryDeviceLocation
+AssociatedProcessorMemory
+DeviceMemoryAddress
+LogicalMemoryConfiguration
+PerfRawData_PerfOS_Memory
+PhysicalMemory
+PhysicalMemoryArray
+PhysicalMemoryLocation
+SMBIOSMemory
+SystemLogicalMemoryConfiguration
+SystemMemoryResource

@@ -1,0 +1,17 @@
+SystemUsers
+Account
+AccountSID
+SecurityDescriptor
+SecuritySetting
+SecuritySettingAccess
+SecuritySettingAuditing
+SecuritySettingGroup
+SecuritySettingOfLogicalFile
+SecuritySettingOfLogicalShare
+SecuritySettingOfObject
+SecuritySettingOwner
+NTEventlogFile
+NTLogEvent
+NTLogEventComputer
+NTLogEventLog
+NTLogEventUser

@@ -1,0 +1,15 @@
+NetworkAdapter
+NetworkAdapterConfiguration
+NetworkAdapterSetting
+NetworkClient
+NetworkConnection
+NetworkLoginProfile
+NetworkProtocol
+PerfRawData_Tcpip_ICMP
+PerfRawData_Tcpip_IP
+PerfRawData_Tcpip_NBTConnection
+PerfRawData_Tcpip_NetworkInterface
+PerfRawData_Tcpip_TCP
+PerfRawData_Tcpip_UDP
+PerfRawData_W3SVC_WebService
+SystemNetworkConnections

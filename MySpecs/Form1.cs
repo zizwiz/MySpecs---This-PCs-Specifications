@@ -71,5 +71,10 @@ namespace MySpecs
         {
             Close();
         }
+
+        private void lvwInfo_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

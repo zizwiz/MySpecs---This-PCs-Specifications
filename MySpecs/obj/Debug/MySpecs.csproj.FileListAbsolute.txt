@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Documents\GitHub\MySpecs---This-PCs-Specifications\MySpecs\bin\Debug\MySpecs.exe.config
+C:\Users\ADMIN\Documents\GitHub\MySpecs---This-PCs-Specifications\MySpecs\bin\Debug\MySpecs.exe
+C:\Users\ADMIN\Documents\GitHub\MySpecs---This-PCs-Specifications\MySpecs\bin\Debug\MySpecs.pdb
+C:\Users\ADMIN\Documents\GitHub\MySpecs---This-PCs-Specifications\MySpecs\obj\Debug\MySpecs.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\GitHub\MySpecs---This-PCs-Specifications\MySpecs\obj\Debug\MySpecs.Form1.resources
+C:\Users\ADMIN\Documents\GitHub\MySpecs---This-PCs-Specifications\MySpecs\obj\Debug\MySpecs.Properties.Resources.resources
+C:\Users\ADMIN\Documents\GitHub\MySpecs---This-PCs-Specifications\MySpecs\obj\Debug\MySpecs.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\GitHub\MySpecs---This-PCs-Specifications\MySpecs\obj\Debug\MySpecs.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\MySpecs---This-PCs-Specifications\MySpecs\obj\Debug\MySpecs.exe
+C:\Users\ADMIN\Documents\GitHub\MySpecs---This-PCs-Specifications\MySpecs\obj\Debug\MySpecs.pdb

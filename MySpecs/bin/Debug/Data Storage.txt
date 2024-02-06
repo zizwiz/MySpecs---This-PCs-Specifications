@@ -1,0 +1,12 @@
+DiskDrive
+DiskDriveToDiskPartition
+DiskPartition
+LogicalDisk
+LogicalDiskRootDirectory
+LogicalDiskToPartition
+LogicalFileAccess
+LogicalFileAuditing
+LogicalFileGroup
+LogicalFileOwner
+LogicalFileSecuritySetting
+TapeDrive
